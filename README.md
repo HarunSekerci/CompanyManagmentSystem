@@ -44,5 +44,3 @@ This option allows you to exit the program.
 ---
 
 This README.md file provides an overview of the company management system and instructions for running and using the program.
-
-Good luck with your project!
