@@ -41,16 +41,8 @@ This option lists all the companies currently stored in the system.
 
 This option allows you to exit the program.
 
-## Contributing
-
-Contributions to the project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
-
-## License
-
-This project is licensed under the MIT License. For more information, see the `LICENSE` file.
-
 ---
 
-This README.md file provides an overview of the company management system and instructions for running and using the program. You can customize the descriptions and add more details as needed.
+This README.md file provides an overview of the company management system and instructions for running and using the program.
 
 Good luck with your project!
