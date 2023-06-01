@@ -10,7 +10,7 @@ This program is a simple company management system implemented in C. It allows y
 
 ### Usage
 
-1. Clone the repository to your local machine:
+1.Clone the repository to your local machine:
 git clone https://github.com/HarunSekerci/CompanyManagmentSystem.git
 
 2.Compile the code:
